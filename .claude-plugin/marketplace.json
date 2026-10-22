@@ -1,0 +1,5 @@
+{
+  "name": "labcreation-mods",
+  "owner": { "name": "labcreation" },
+  "plugins": [{ "name": "barra-contesto", "source": "./" }]
+}
