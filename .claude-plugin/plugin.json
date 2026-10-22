@@ -1,0 +1,7 @@
+{
+  "name": "barra-contesto",
+  "version": "0.1.0",
+  "description": "Barra 0-100% del riempimento del contesto della conversazione, sopra il campo di scrittura",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
